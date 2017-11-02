@@ -1,7 +1,7 @@
 /*
-Package goreadarray to read a simple array with float 64 values from a file or through the terminal.
+Package gofcnreadarray to read a simple array with float 64 values from a file or through the terminal.
 */
-package goreadarray
+package gofcnreadarray
 
 import (
 	"bufio"
